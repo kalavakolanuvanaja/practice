@@ -1,2 +1,2 @@
 # practice
- practiced tasks repository
+ practiced tasks repo
